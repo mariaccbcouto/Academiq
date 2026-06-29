@@ -1,0 +1,6 @@
+{
+  "name": "Academiq",
+  "description": "Academiq — O teu Planeador de Estudos Inteligente com Pomodoro, Time-blocking e Resumos de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
